@@ -1,0 +1,7 @@
+S.mass = 0.938
+S.primenumbers = [2 3 5 7]
+S.smartcreatures = {'elephants','parrots','humans'}
+
+S.self = S
+
+S = rmfield(S,
